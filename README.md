@@ -7,3 +7,6 @@ link to gitHub Repo:
 
 ![Main Menu](./pictures/startScreen.png)
 ![View Employees](./pictures/seeEmployees.png)
+<h1>Gif of Working App:</h1>
+
+![Gif of Working App](./pictures/employeeManagementDemo.gif)
