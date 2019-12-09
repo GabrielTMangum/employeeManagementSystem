@@ -5,5 +5,5 @@ The purpose of this project was to stretch and practice my skills in node.js but
 link to gitHub Repo:
 <https://github.com/GabrielTMangum/employeeManagementSystem>
 
-![Main Menu](./pictures/mainmenu.png)
-![View Employees](./pictures/viewEmployees.png)
+![Main Menu](./pictures/startScreen.png)
+![View Employees](./pictures/seeEmployees.png)
